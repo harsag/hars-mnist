@@ -1,5 +1,6 @@
 voila
-fastai2>=0.0.5
-pi llow was removed
-packaging
-ipywidgets==7.5.1
+fastai>=2.0.0
+graphviz
+ipywidgets
+ipycanvas
+nbdev>=0.2.12
