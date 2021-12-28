@@ -34,8 +34,10 @@ If this does not work, please follow below steps.
 1. Go to https://mybinder.org/
 2. GitHub repository name or URL = https://github.com/harsag/hars-mnist
 3. URL to open (optional) = /voila/render/harshad_mnist_app1.ipynb 
-4. Select URL from the dropdown next to /voila/render/harshad_mnist_app1.ipynb
+4. Select the value "URL" from the dropdown next to /voila/render/harshad_mnist_app1.ipynb
 5. Click launch button
+
+![image](https://user-images.githubusercontent.com/89522672/147566406-754d5590-cf57-44c4-829e-b420fae6f54a.png)
 
 The app looks like the screen below
 ![image](https://user-images.githubusercontent.com/89522672/147563354-bbac25c1-8e99-4a88-90ca-a03007f0a1c6.png)
